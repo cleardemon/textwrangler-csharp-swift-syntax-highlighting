@@ -12,6 +12,8 @@
 	<array>
 		<string>abstract</string>
 		<string>as</string>
+		<string>async</string>
+		<string>await</string>
 		<string>base</string>
 		<string>bool</string>
 		<string>break</string>
@@ -39,6 +41,7 @@
 		<string>float</string>
 		<string>for</string>
 		<string>foreach</string>
+		<string>get</string>
 		<string>goto</string>
 		<string>if</string>
 		<string>implicit</string>
@@ -65,6 +68,7 @@
 		<string>return</string>
 		<string>sbyte</string>
 		<string>sealed</string>
+		<string>set</string>
 		<string>short</string>
 		<string>sizeof</string>
 		<string>stackalloc</string>
